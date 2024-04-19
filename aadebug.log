@@ -89,9 +89,9 @@ NoneType: None
 2022-07-24 17:15:15,770 - ERROR - main  - main - 69 - CustomHandler + CustomFilter + CustomLogger test - Enter into the main()
 2022-07-24 17:24:45,223 - WARNING - main  - new_function - 63 - "CustomHandler+CustomFilter+CustomLogger+CustomFormatter" test - Enter into the new_function() - varia
 NoneType: None
-2022-07-24 17:28:03,022 - CRITICAL - main  - new_function - 63 - "CustomHandler+CustomFilter+CustomLogger+CustomFormatter" test - Enter into the new_function() - œ–» ›“Œ… œ≈–≈Ã≈ÕÕŒ… ¬Œ«Õ» ¿≈“ Œÿ»¡ ¿
+2022-07-24 17:28:03,022 - CRITICAL - main  - new_function - 63 - "CustomHandler+CustomFilter+CustomLogger+CustomFormatter" test - Enter into the new_function() - √è√ê√à √ù√í√é√â √è√Ö√ê√Ö√å√Ö√ç√ç√é√â √Ç√é√á√ç√à√ä√Ä√Ö√í √é√ò√à√Å√ä√Ä
 NoneType: None
-2022-07-24 17:29:19,093 - CRITICAL - main  - new_function - 63 - "CustomHandler+CustomFilter+CustomLogger+CustomFormatter" test - Enter into the new_function() - œ–» ›“Œ… œ≈–≈Ã≈ÕÕŒ… ¬Œ«Õ» ¿≈“ Œÿ»¡ ¿ - VARIA
+2022-07-24 17:29:19,093 - CRITICAL - main  - new_function - 63 - "CustomHandler+CustomFilter+CustomLogger+CustomFormatter" test - Enter into the new_function() - √è√ê√à √ù√í√é√â √è√Ö√ê√Ö√å√Ö√ç√ç√é√â √Ç√é√á√ç√à√ä√Ä√Ö√í √é√ò√à√Å√ä√Ä - VARIA
 NoneType: None
 2022-07-24 17:30:29,652 - CRITICAL - main  - new_function - 63 - "CustomHandler+CustomFilter+CustomLogger+CustomFormatter" test - Enter into the new_function() - This variable makes the PROBLEM - VARIA
 NoneType: None
